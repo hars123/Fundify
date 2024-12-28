@@ -1,8 +1,8 @@
-Crowdfunding App
+**Crowdfunding App**
 
 Welcome to the Crowdfunding App! This is a platform that allows individuals and organizations to raise funds for their causes and projects. Users can create campaigns, set fundraising goals, track donations, and share their initiatives with the world.
 
-Features
+**Features**
 User Profiles: Users can create and manage their own profiles, view their campaigns, and track their donations.
 
 Campaign Creation: Users can set up campaigns with descriptions, goals, and timelines. Upload media (images/videos) and keep the supporters updated.
