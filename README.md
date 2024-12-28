@@ -6,9 +6,12 @@ Welcome to the Crowdfunding App! This is a platform that allows individuals and 
 
  Users can create and manage their own profiles, view their campaigns, and track their donations.
 
-Campaign Creation: Users can set u**p campaigns with descriptions, goals, and timelines. Upload media (images/videos) and keep the supporters updated.
+**Campaign Creation:**
 
-Donation System: A secure and seamless donation process, supporting multiple payment options like credit cards, PayPal, and other popular gateways.
+ Users can set u**p campaigns with descriptions, goals, and timelines. Upload media (images/videos) and keep the supporters updated.
+
+Donation System:
+ A secure and seamless donation process, supporting multiple payment options like credit cards, PayPal, and other popular gateways.
 
 Tracking Progress: Campaign creators and donors can track the fundraising progress in real-time with live donation tracking.
 
