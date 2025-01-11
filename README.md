@@ -6,5 +6,3 @@ Usage: How does the app work?
 Contributors: Are you working on this solo, or is there a team?
 Future Enhancements: Any planned features or updates?
 Screenshots/Demos: Do you have any visuals or examples to include?
-
-
